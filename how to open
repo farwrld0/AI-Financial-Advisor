@@ -1,0 +1,24 @@
+每次打开这个 Streamlit 网站，在项目目录里运行：
+
+```bash
+source .venv/bin/activate
+streamlit run app.py
+```
+
+然后浏览器打开它显示的地址，通常是：
+
+```text
+http://localhost:8501
+```
+
+如果 `8501` 被占用，可以用：
+
+```bash
+streamlit run app.py --server.port 8502
+```
+
+你的项目目录是：
+
+```bash
+cd "/Users/kenchen/Library/CloudStorage/OneDrive-Personal/IST 495/ai-financial-advisor"
+```

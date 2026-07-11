@@ -1,0 +1,62 @@
+{
+  "age": "19",
+  "cash_savings": 4000.0,
+  "checking_account": 1000.0,
+  "city": "San Francisco",
+  "dining_out": 100.0,
+  "education_level": "Bachelor's",
+  "emergency_fund_months": "",
+  "employment_status": "Student",
+  "entertainment": 200.0,
+  "full_name": "ken",
+  "goal_timeline": "",
+  "groceries": 200.0,
+  "household_size": "1",
+  "insurance": 0.0,
+  "interests": [
+    "Sports",
+    "Cooking",
+    "Gaming"
+  ],
+  "internet_phone": 0.0,
+  "investment_accounts": 3000.0,
+  "loan_repayments": 0.0,
+  "monthly_income_after_tax": 2000.0,
+  "monthly_surplus": 1500.0,
+  "net_worth": 8000.0,
+  "open_to_side_hustle": "Open to it",
+  "other_fixed_expenses": 0.0,
+  "other_variable_expenses": 0.0,
+  "planned_purchases": [
+    {
+      "category": "Electronics",
+      "cost": 800.0,
+      "name": "laptop",
+      "priority": "High"
+    }
+  ],
+  "primary_goal": "",
+  "rent_mortgage": 0.0,
+  "retirement_accounts": 0.0,
+  "risk_preference": "",
+  "secondary_income": 200.0,
+  "shopping": 200.0,
+  "skills": [
+    "Marketing",
+    "Programming",
+    "Finance"
+  ],
+  "state": "Texas",
+  "subscriptions": 0.0,
+  "target_savings": 10000.0,
+  "total_assets": 8000.0,
+  "total_debt": 0.0,
+  "total_fixed_expenses": 0.0,
+  "total_monthly_expenses": 700.0,
+  "total_monthly_income": 2200.0,
+  "total_variable_expenses": 700.0,
+  "transportation_fixed": 0.0,
+  "travel": 0.0,
+  "utilities": 0.0,
+  "weekly_free_hours": "5\u201310 hours"
+}
